@@ -2,9 +2,8 @@
 This repository is for the development of a app 
 
 ## Elementos da Equipa (h2)
-* Alexandre Brissos
-* Marcos Silva
-* Nome 3
+* Alexandre Brissos 21131
+* Marcos Silva 21129
 
 ## Requisitos da Aplicação (h2)
 ### Requisitos Minímos (h3)
