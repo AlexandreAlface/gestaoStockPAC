@@ -1,17 +1,17 @@
 # gestaoStockPAC
 This repository is for the development of a app 
 
-## Elementos da Equipa (h2)
+## Elementos da Equipa 
 * Alexandre Brissos 21131
 * Marcos Silva 21129
 
-## Requisitos da Aplicação (h2)
-### Requisitos Minímos (h3)
+## Requisitos da Aplicação 
+### Requisitos Minímos 
 * Tranformar a versão desktop em uma app de telemóvel
 * App fácil de ser utilizada
 * Bom design 
 
-* ### Requisitos Avançados (h3)
+* ### Requisitos Avançados 
 * Lista de Peças
 * Reserva de peças
 * Lista de Peças reservadas
