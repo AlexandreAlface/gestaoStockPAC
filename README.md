@@ -18,7 +18,7 @@ This repository is for the development of a app
 * Alterar dados da conta 
 
 ## Lista de Tarefas
-1. Lista de Peças - [] - por realizar
+1. Lista de Peças - [ ] - por realizar
 2. Reserva de peças - [ ] - por realizar
 3. Lista de Peças reservadas - [ ] - por realizar
 4. Alterar dados da conta  - [ ] - por realizar
