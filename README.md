@@ -17,7 +17,7 @@ This repository is for the development of a app
 * Lista de Peças reservadas
 * Alterar dados da conta 
 
-## Lista de Tarefas (h2)
+## Lista de Tarefas
 1. Lista de Peças - [] - por realizar
 2. Reserva de peças - [ ] - por realizar
 3. Lista de Peças reservadas - [ ] - por realizar
