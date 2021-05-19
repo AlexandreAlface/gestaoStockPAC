@@ -15,6 +15,8 @@ This repository is for the development of a app
 * Lista de Peças
 * Reserva de peças
 * Lista de Peças reservadas
+* Historico de peças reservadas
+* List de peças favoritas reservadas
 * Alterar dados da conta 
 
 ## Lista de Tarefas
