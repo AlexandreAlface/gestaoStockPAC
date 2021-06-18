@@ -3,7 +3,6 @@ This repository is for the development of a app
 
 ## Elementos da Equipa 
 * Alexandre Brissos 21131
-* Marcos Silva 21129
 
 ## Requisitos da Aplicação 
 ### Requisitos Minímos 
@@ -18,11 +17,14 @@ This repository is for the development of a app
 * Historico de peças reservadas
 * List de peças favoritas reservadas
 * Alterar dados da conta 
+* filtros de peças reservadas, carrinho e favouritas
 
 ## Lista de Tarefas
-1. Lista de Peças - [ ] - por realizar
-2. Reserva de peças - [ ] - por realizar
-3. Lista de Peças reservadas - [ ] - por realizar
-4. Alterar dados da conta  - [ ] - por realizar
+1. Lista de Peças realizada
+2. Reserva de peças relaizada
+3. Lista de Peças reservadas relaizada
+4. Alterar dados da conta por relaizar - deu um erros inesperado
+5. Lista de Peças favouritas por relaizar
+6. Lista de Peças carrinho por relaizar
 
 
